@@ -1,4 +1,4 @@
-const myColorsArray = ["purple", "rgba(46, 193, 245)", "##94ffaf", "red"];
+const myColorsArray = ["purple", "rgba(46, 193, 245)", "#94ffaf", "red", "#fg3454"];
 const button = document.querySelector(".button");
 const color = document.querySelector(".color");
 button.addEventListener("click", function () {
